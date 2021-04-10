@@ -1,0 +1,135 @@
+2021-04-01 13:01:22,679 [main] INFO inetbanking - login page is displayed
+2021-04-01 13:01:24,932 [main] INFO inetbanking - username and password is entered and click on login button
+2021-04-01 13:01:24,954 [main] INFO inetbanking - login test passed
+2021-04-02 15:36:32,170 [main] INFO inetbanking - login page is displayed
+2021-04-02 15:36:37,233 [main] INFO inetbanking - username and password is entered and click on login button
+2021-04-02 15:38:53,656 [main] INFO inetbanking - login page is displayed
+2021-04-02 15:38:56,092 [main] INFO inetbanking - username and password is entered and click on login button
+2021-04-02 15:38:56,113 [main] INFO inetbanking - login test passed
+2021-04-02 16:08:26,085 [main] INFO inetbanking - login page is displayed
+2021-04-02 16:08:28,214 [main] INFO inetbanking - username and password is entered and click on login button
+2021-04-02 16:08:28,222 [main] INFO inetbanking - login test passed
+2021-04-02 16:09:41,310 [main] INFO inetbanking - login page is displayed
+2021-04-02 16:09:49,434 [main] INFO inetbanking - username and password is entered and click on login button
+2021-04-02 16:09:49,454 [main] INFO inetbanking - login test passed
+2021-04-02 16:52:18,765 [main] INFO inetbanking - login page is displayed
+2021-04-02 16:52:22,037 [main] INFO inetbanking - username and password is entered and click on login button
+2021-04-02 16:52:22,046 [main] INFO inetbanking - login test passed
+2021-04-07 11:51:44,247 [main] INFO inetbanking - Try login
+2021-04-07 11:51:49,630 [main] INFO inetbanking - Try login
+2021-04-07 11:51:53,656 [main] INFO inetbanking - Try login
+2021-04-07 11:51:59,343 [main] INFO inetbanking - Try login
+2021-04-07 11:51:59,388 [main] INFO inetbanking - login passed
+2021-04-07 11:52:04,760 [main] INFO inetbanking - Try login
+2021-04-07 11:52:09,236 [main] INFO inetbanking - Try login
+2021-04-07 11:52:09,248 [main] INFO inetbanking - login passed
+2021-04-07 11:54:20,710 [main] INFO inetbanking - Try login
+2021-04-07 11:54:25,033 [main] INFO inetbanking - warning login failed
+2021-04-07 11:54:25,099 [main] INFO inetbanking - Try login
+2021-04-07 11:54:28,117 [main] INFO inetbanking - warning login failed
+2021-04-07 11:54:28,133 [main] INFO inetbanking - Try login
+2021-04-07 11:54:31,302 [main] INFO inetbanking - warning login failed
+2021-04-07 11:54:31,319 [main] INFO inetbanking - Try login
+2021-04-07 11:54:34,170 [main] INFO inetbanking - login passed
+2021-04-07 11:54:37,226 [main] INFO inetbanking - Try login
+2021-04-07 11:54:40,998 [main] INFO inetbanking - warning login failed
+2021-04-07 11:54:41,014 [main] INFO inetbanking - Try login
+2021-04-07 11:54:42,767 [main] INFO inetbanking - login passed
+2021-04-08 10:41:00,516 [main] INFO inetbanking - Try login
+2021-04-08 10:41:03,522 [main] INFO inetbanking - warning login failed
+2021-04-08 10:41:03,562 [main] INFO inetbanking - Try login
+2021-04-08 10:41:06,804 [main] INFO inetbanking - warning login failed
+2021-04-08 10:41:06,812 [main] INFO inetbanking - Try login
+2021-04-08 10:41:10,283 [main] INFO inetbanking - warning login failed
+2021-04-08 10:41:10,297 [main] INFO inetbanking - Try login
+2021-04-08 10:41:12,797 [main] INFO inetbanking - login passed
+2021-04-08 10:41:16,536 [main] INFO inetbanking - Try login
+2021-04-08 10:41:19,527 [main] INFO inetbanking - warning login failed
+2021-04-08 10:41:19,541 [main] INFO inetbanking - Try login
+2021-04-08 10:41:21,598 [main] INFO inetbanking - login passed
+2021-04-08 10:41:30,450 [main] INFO inetbanking - Try to Login to Application
+2021-04-08 10:41:32,764 [main] INFO inetbanking - login test passed
+2021-04-08 10:41:32,773 [main] INFO inetbanking - click on New Customer link
+2021-04-09 10:04:47,214 [main] INFO inetbanking - login page is displayed
+2021-04-09 10:04:49,659 [main] INFO inetbanking - username and password is entered and click on login button
+2021-04-09 10:04:49,672 [main] INFO inetbanking - login test passed
+2021-04-09 10:04:59,936 [main] INFO inetbanking - Try login
+2021-04-09 10:05:03,067 [main] INFO inetbanking - warning login failed
+2021-04-09 10:05:03,085 [main] INFO inetbanking - Try login
+2021-04-09 10:05:05,896 [main] INFO inetbanking - warning login failed
+2021-04-09 10:05:05,901 [main] INFO inetbanking - Try login
+2021-04-09 10:05:09,208 [main] INFO inetbanking - warning login failed
+2021-04-09 10:05:09,212 [main] INFO inetbanking - Try login
+2021-04-09 10:05:11,965 [main] INFO inetbanking - login passed
+2021-04-09 10:05:15,651 [main] INFO inetbanking - Try login
+2021-04-09 10:05:18,777 [main] INFO inetbanking - warning login failed
+2021-04-09 10:05:18,779 [main] INFO inetbanking - Try login
+2021-04-09 10:05:20,787 [main] INFO inetbanking - login passed
+2021-04-09 10:06:16,103 [main] INFO inetbanking - Try to Login to Application
+2021-04-09 10:35:33,084 [main] INFO inetbanking - login page is displayed
+2021-04-09 10:35:35,167 [main] INFO inetbanking - username and password is entered and click on login button
+2021-04-09 10:35:35,186 [main] INFO inetbanking - login test passed
+2021-04-09 10:35:43,252 [main] INFO inetbanking - Try login
+2021-04-09 10:35:46,602 [main] INFO inetbanking - warning login failed
+2021-04-09 10:35:46,628 [main] INFO inetbanking - Try login
+2021-04-09 10:35:49,672 [main] INFO inetbanking - warning login failed
+2021-04-09 10:35:49,678 [main] INFO inetbanking - Try login
+2021-04-09 10:35:53,361 [main] INFO inetbanking - warning login failed
+2021-04-09 10:35:53,367 [main] INFO inetbanking - Try login
+2021-04-09 10:35:56,089 [main] INFO inetbanking - login passed
+2021-04-09 10:36:00,844 [main] INFO inetbanking - Try login
+2021-04-09 10:36:05,133 [main] INFO inetbanking - warning login failed
+2021-04-09 10:36:05,139 [main] INFO inetbanking - Try login
+2021-04-09 10:36:07,669 [main] INFO inetbanking - login passed
+2021-04-09 10:36:18,841 [main] INFO inetbanking - Try to Login to Application
+2021-04-09 12:24:55,491 [main] INFO inetbanking - login page is displayed
+2021-04-09 12:24:57,441 [main] INFO inetbanking - username and password is entered and click on login button
+2021-04-09 12:24:57,447 [main] INFO inetbanking - login test passed
+2021-04-09 12:25:03,644 [main] INFO inetbanking - Try login
+2021-04-09 12:25:06,189 [main] INFO inetbanking - warning login failed
+2021-04-09 12:25:06,200 [main] INFO inetbanking - Try login
+2021-04-09 12:25:08,688 [main] INFO inetbanking - warning login failed
+2021-04-09 12:25:08,691 [main] INFO inetbanking - Try login
+2021-04-09 12:25:11,128 [main] INFO inetbanking - warning login failed
+2021-04-09 12:25:11,130 [main] INFO inetbanking - Try login
+2021-04-09 12:25:13,192 [main] INFO inetbanking - login passed
+2021-04-09 12:25:15,495 [main] INFO inetbanking - Try login
+2021-04-09 12:25:17,462 [main] INFO inetbanking - warning login failed
+2021-04-09 12:25:17,469 [main] INFO inetbanking - Try login
+2021-04-09 12:25:19,851 [main] INFO inetbanking - login passed
+2021-04-09 12:25:29,582 [main] INFO inetbanking - Try to Login to Application
+2021-04-09 12:25:32,106 [main] INFO inetbanking - login test passed
+2021-04-09 12:25:32,113 [main] INFO inetbanking - click on New Customer link
+2021-04-10 10:11:53,421 [main] INFO inetbanking - login page is displayed
+2021-04-10 10:11:55,363 [main] INFO inetbanking - username and password is entered and click on login button
+2021-04-10 10:11:55,372 [main] INFO inetbanking - login test passed
+2021-04-10 10:12:02,842 [main] INFO inetbanking - Try login
+2021-04-10 10:12:05,930 [main] INFO inetbanking - warning login failed
+2021-04-10 10:12:05,957 [main] INFO inetbanking - Try login
+2021-04-10 10:12:09,129 [main] INFO inetbanking - warning login failed
+2021-04-10 10:12:09,134 [main] INFO inetbanking - Try login
+2021-04-10 10:12:12,583 [main] INFO inetbanking - warning login failed
+2021-04-10 10:12:12,585 [main] INFO inetbanking - Try login
+2021-04-10 10:12:15,151 [main] INFO inetbanking - login passed
+2021-04-10 10:12:18,799 [main] INFO inetbanking - Try login
+2021-04-10 10:12:21,367 [main] INFO inetbanking - warning login failed
+2021-04-10 10:12:21,369 [main] INFO inetbanking - Try login
+2021-04-10 10:12:23,047 [main] INFO inetbanking - login passed
+2021-04-10 10:12:32,911 [main] INFO inetbanking - Try to Login to Application
+2021-04-10 10:12:35,595 [main] INFO inetbanking - login test passed
+2021-04-10 10:12:35,600 [main] INFO inetbanking - click on New Customer link
+2021-04-10 10:43:23,182 [main] INFO inetbanking - login page is displayed
+2021-04-10 10:43:25,789 [main] INFO inetbanking - username and password is entered and click on login button
+2021-04-10 10:43:25,801 [main] INFO inetbanking - login test passed
+2021-04-10 10:43:54,180 [main] INFO inetbanking - Try login
+2021-04-10 10:43:57,398 [main] INFO inetbanking - warning login failed
+2021-04-10 10:43:57,415 [main] INFO inetbanking - Try login
+2021-04-10 10:44:01,144 [main] INFO inetbanking - warning login failed
+2021-04-10 10:44:01,148 [main] INFO inetbanking - Try login
+2021-04-10 10:44:04,257 [main] INFO inetbanking - warning login failed
+2021-04-10 10:44:04,259 [main] INFO inetbanking - Try login
+2021-04-10 10:44:06,934 [main] INFO inetbanking - login passed
+2021-04-10 10:44:10,205 [main] INFO inetbanking - Try login
+2021-04-10 10:44:12,765 [main] INFO inetbanking - warning login failed
+2021-04-10 10:44:12,770 [main] INFO inetbanking - Try login
+2021-04-10 10:44:14,979 [main] INFO inetbanking - login passed
