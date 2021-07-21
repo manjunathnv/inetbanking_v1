@@ -7,11 +7,18 @@
   <test thread-count="5" verbose="0" name="Banking Test(failed)">
     <parameter name="Browser" value="chrome"/>
     <classes>
+      <class name="com.inetbanking_v1.Testcases.TC_LoginTest_01">
+        <methods>
+          <include name="Setup"/>
+          <include name="teardown"/>
+          <include name="LoginTest"/>
+        </methods>
+      </class> <!-- com.inetbanking_v1.Testcases.TC_LoginTest_01 -->
       <class name="com.inetbanking_v1.Testcases.TC_LoginDD_02">
         <methods>
           <include name="Setup"/>
           <include name="teardown"/>
-          <include name="loginDDT" invocation-numbers="0 1 2 4"/>
+          <include name="loginDDT" invocation-numbers="0 1 2 3 4 5"/>
         </methods>
       </class> <!-- com.inetbanking_v1.Testcases.TC_LoginDD_02 -->
     </classes>

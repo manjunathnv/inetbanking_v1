@@ -1,7 +1,6 @@
 package com.inetbanking_v1.Testcases;
 
 
-import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

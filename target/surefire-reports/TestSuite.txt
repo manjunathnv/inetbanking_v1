@@ -1,20 +1,89 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 73.254 s <<< FAILURE! - in TestSuite
-loginDDT(com.inetbanking_v1.Testcases.TC_LoginDD_02)  Time elapsed: 3.237 s  <<< FAILURE!
+Tests run: 8, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 71.855 s <<< FAILURE! - in TestSuite
+LoginTest(com.inetbanking_v1.Testcases.TC_LoginTest_01)  Time elapsed: 0.772 s  <<< FAILURE!
+org.openqa.selenium.UnhandledAlertException: 
+unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=91.0.4472.77): User or Password is not valid
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MANJUNATH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\Manjunath\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:62260}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4adefccc0adc0a566b075c8b017a4c3f
+	at com.inetbanking_v1.Testcases.TC_LoginTest_01.LoginTest(TC_LoginTest_01.java:19)
+
+loginDDT(com.inetbanking_v1.Testcases.TC_LoginDD_02)  Time elapsed: 2.331 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
 	at com.inetbanking_v1.Testcases.TC_LoginDD_02.loginDDT(TC_LoginDD_02.java:28)
 
-loginDDT(com.inetbanking_v1.Testcases.TC_LoginDD_02)  Time elapsed: 3.73 s  <<< FAILURE!
-java.lang.AssertionError: expected [true] but found [false]
-	at com.inetbanking_v1.Testcases.TC_LoginDD_02.loginDDT(TC_LoginDD_02.java:28)
+loginDDT(com.inetbanking_v1.Testcases.TC_LoginDD_02)  Time elapsed: 4.371 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=91.0.4472.77)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MANJUNATH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\Manjunath\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:61002}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f8acd3a465de3e5353f637cc12de2b6
+	at com.inetbanking_v1.Testcases.TC_LoginDD_02.IsAlertPresent(TC_LoginDD_02.java:45)
+	at com.inetbanking_v1.Testcases.TC_LoginDD_02.loginDDT(TC_LoginDD_02.java:22)
 
-loginDDT(com.inetbanking_v1.Testcases.TC_LoginDD_02)  Time elapsed: 3.111 s  <<< FAILURE!
-java.lang.AssertionError: expected [true] but found [false]
-	at com.inetbanking_v1.Testcases.TC_LoginDD_02.loginDDT(TC_LoginDD_02.java:28)
+loginDDT(com.inetbanking_v1.Testcases.TC_LoginDD_02)  Time elapsed: 12.145 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=91.0.4472.77)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MANJUNATH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\Manjunath\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:61002}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f8acd3a465de3e5353f637cc12de2b6
+*** Element info: {Using=name, value=uid}
+	at com.inetbanking_v1.Testcases.TC_LoginDD_02.loginDDT(TC_LoginDD_02.java:20)
 
-loginDDT(com.inetbanking_v1.Testcases.TC_LoginDD_02)  Time elapsed: 2.563 s  <<< FAILURE!
-java.lang.AssertionError: expected [true] but found [false]
-	at com.inetbanking_v1.Testcases.TC_LoginDD_02.loginDDT(TC_LoginDD_02.java:28)
+loginDDT(com.inetbanking_v1.Testcases.TC_LoginDD_02)  Time elapsed: 12.137 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=91.0.4472.77)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MANJUNATH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\Manjunath\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:61002}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f8acd3a465de3e5353f637cc12de2b6
+*** Element info: {Using=name, value=uid}
+	at com.inetbanking_v1.Testcases.TC_LoginDD_02.loginDDT(TC_LoginDD_02.java:20)
+
+loginDDT(com.inetbanking_v1.Testcases.TC_LoginDD_02)  Time elapsed: 12.101 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=91.0.4472.77)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MANJUNATH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\Manjunath\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:61002}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f8acd3a465de3e5353f637cc12de2b6
+*** Element info: {Using=name, value=uid}
+	at com.inetbanking_v1.Testcases.TC_LoginDD_02.loginDDT(TC_LoginDD_02.java:20)
+
+loginDDT(com.inetbanking_v1.Testcases.TC_LoginDD_02)  Time elapsed: 12.115 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=91.0.4472.77)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MANJUNATH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\Manjunath\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:61002}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f8acd3a465de3e5353f637cc12de2b6
+*** Element info: {Using=name, value=uid}
+	at com.inetbanking_v1.Testcases.TC_LoginDD_02.loginDDT(TC_LoginDD_02.java:20)
+
+teardown(com.inetbanking_v1.Testcases.TC_LoginDD_02)  Time elapsed: 12.347 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=91.0.4472.77)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MANJUNATH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\Manjunath\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:61002}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f8acd3a465de3e5353f637cc12de2b6
 

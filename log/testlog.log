@@ -133,3 +133,51 @@
 2021-04-10 10:44:12,765 - inetbanking -INFO - warning login failed
 2021-04-10 10:44:12,770 - inetbanking -INFO - Try login
 2021-04-10 10:44:14,979 - inetbanking -INFO - login passed
+2021-04-23 00:03:10,874 - inetbanking -INFO - login page is displayed
+2021-04-23 00:03:12,157 - inetbanking -INFO - username and password is entered and click on login button
+2021-04-23 00:42:27,089 - inetbanking -INFO - login page is displayed
+2021-04-23 00:42:28,263 - inetbanking -INFO - username and password is entered and click on login button
+2021-04-23 00:42:40,686 - inetbanking -INFO - Try login
+2021-04-23 00:42:43,411 - inetbanking -INFO - warning login failed
+2021-04-23 00:42:43,416 - inetbanking -INFO - Try login
+2021-04-23 00:42:43,589 - inetbanking -INFO - Try login
+2021-04-23 00:42:43,625 - inetbanking -INFO - Try login
+2021-04-23 00:42:43,659 - inetbanking -INFO - Try login
+2021-04-23 00:42:43,690 - inetbanking -INFO - Try login
+2021-05-06 08:29:46,135 - inetbanking -INFO - login page is displayed
+2021-05-06 08:29:47,097 - inetbanking -INFO - username and password is entered and click on login button
+2021-05-06 08:29:56,040 - inetbanking -INFO - Try login
+2021-05-06 08:29:58,733 - inetbanking -INFO - warning login failed
+2021-05-06 08:29:58,738 - inetbanking -INFO - Try login
+2021-05-06 08:30:02,384 - inetbanking -INFO - warning login failed
+2021-05-06 08:30:02,392 - inetbanking -INFO - Try login
+2021-05-06 08:30:04,991 - inetbanking -INFO - warning login failed
+2021-05-06 08:30:04,999 - inetbanking -INFO - Try login
+2021-05-06 08:30:07,736 - inetbanking -INFO - warning login failed
+2021-05-06 08:30:07,740 - inetbanking -INFO - Try login
+2021-05-06 08:30:11,170 - inetbanking -INFO - warning login failed
+2021-05-06 08:30:11,174 - inetbanking -INFO - Try login
+2021-05-06 08:30:13,887 - inetbanking -INFO - warning login failed
+2021-05-06 08:37:40,475 - inetbanking -INFO - login page is displayed
+2021-05-06 08:37:41,736 - inetbanking -INFO - username and password is entered and click on login button
+2021-05-06 08:37:48,461 - inetbanking -INFO - Try login
+2021-05-06 08:37:51,812 - inetbanking -INFO - warning login failed
+2021-05-06 08:37:51,815 - inetbanking -INFO - Try login
+2021-05-06 08:37:53,976 - inetbanking -INFO - login passed
+2021-05-06 08:37:56,654 - inetbanking -INFO - Try login
+2021-05-06 08:37:59,403 - inetbanking -INFO - warning login failed
+2021-05-06 08:37:59,410 - inetbanking -INFO - Try login
+2021-05-06 08:38:01,713 - inetbanking -INFO - login passed
+2021-05-06 08:38:04,412 - inetbanking -INFO - Try login
+2021-05-06 08:38:07,590 - inetbanking -INFO - warning login failed
+2021-05-06 08:38:07,597 - inetbanking -INFO - Try login
+2021-05-06 08:38:11,900 - inetbanking -INFO - warning login failed
+2021-06-09 12:28:15,024 - inetbanking -INFO - login page is displayed
+2021-06-09 12:28:15,660 - inetbanking -INFO - username and password is entered and click on login button
+2021-06-09 12:28:22,684 - inetbanking -INFO - Try login
+2021-06-09 12:28:25,011 - inetbanking -INFO - warning login failed
+2021-06-09 12:28:25,016 - inetbanking -INFO - Try login
+2021-06-09 12:28:29,387 - inetbanking -INFO - Try login
+2021-06-09 12:28:41,532 - inetbanking -INFO - Try login
+2021-06-09 12:28:53,669 - inetbanking -INFO - Try login
+2021-06-09 12:29:05,771 - inetbanking -INFO - Try login
